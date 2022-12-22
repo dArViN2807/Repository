@@ -1,0 +1,32 @@
+h2 {
+  font-size: 25px;
+  margin-left: 475px;
+  color: darkred;
+}
+body {
+  background-color: lightblue;
+}
+html {
+  display: block;
+}
+
+img {
+  height: 70px;
+  margin-top: 25px;
+}
+h1 {
+  margin-left: 250px;
+  height: 25px;
+  size: 30px;
+  color: darkred;
+}
+div {
+  height: 120px;
+  margin-left: 200px;
+}
+a {
+  margin-left: 400px;
+  color: red;
+  height: 24px;
+  size: 240px;
+}
